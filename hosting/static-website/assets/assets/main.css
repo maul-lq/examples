@@ -1,4 +1,6 @@
-
+body {
+    background-color: #222831;
+}
 
 img {
     max-width: 50vw;
@@ -11,6 +13,8 @@ img {
 .judul
 {
     text-align: center;
+    background-color: #481E14;
+    color: #F2613F;
 }
 
 
